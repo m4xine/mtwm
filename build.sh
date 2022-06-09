@@ -1,0 +1,1 @@
+gcc -omtwm src/mtwm.c -std=c99  
